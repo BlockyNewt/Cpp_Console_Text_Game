@@ -1,0 +1,4 @@
+﻿  enemies.cpp
+C:\Users\Tommy\Desktop\CodingFiles\Project4\Project4\enemies.h(15): warning C4091: '': ignored on left of 'Inventory' when no variable is declared
+C:\Users\Tommy\Desktop\CodingFiles\Project4\Project4\enemies.h(16): warning C4091: '': ignored on left of 'Potion' when no variable is declared
+  Project4.vcxproj -> C:\Users\Tommy\Desktop\CodingFiles\Project4\Debug\Project4.exe
